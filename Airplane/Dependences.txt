@@ -10,3 +10,16 @@ npm i react-native-dropdown-picker
 npm install @react-navigation/bottom-tabs
 npm i react-native-calendar-picker
 npm install react-native-paper
+some other for search screen you need to install tab navigator and calender
+
+
+video from where i learn react-native
+
+1st:
+https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc&index=2&ab_channel=TheNetNinja
+2nd:
+https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&ab_channel=TheNetNinja
+3rd:
+https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&ab_channel=TheNetNinja
+Final:
+https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&ab_channel=TheNetNinja
